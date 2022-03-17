@@ -2,6 +2,7 @@ package java_test;
 
 public class CommonService {
 	public static void main(String[] args) {
-		System.out.println("ê³µí†µê¸°ëŠ¥ ë„£ì–´ì£¼ì„¸ìš”1");
+		System.out.println("°øÅë±â´É ³Ö¾îÁÖ¼¼¿ä");
+		System.out.println("b_branch °øÅë±â´É");
 	}
 }
